@@ -21,7 +21,4 @@ This Project shows the list of Users which are stored in the MySql Database. Usi
 
 ## Compilation Command
 - `mvn clean install` - Plain maven clean and install
-# IoTrackService
-# IoTrackService
-# IoTrackService
 # Spring-Boot-JPA-Example
